@@ -1,2 +1,2 @@
-# -
-普通的新春创意营
+## 🎮 Game
+[▶ Play the game](https://itch.io/your-game)
