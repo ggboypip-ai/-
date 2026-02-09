@@ -1,2 +1,1 @@
-## 🎮 Game
-[▶ Play the game](https://itch.io/your-game)
+▶ [Play the game](https://ggboypip-ai.github.io/-/)
